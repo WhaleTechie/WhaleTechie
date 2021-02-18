@@ -8,4 +8,4 @@
 - :sunglasses: I also study DataScience and I am reviewing Math basics with [MIT 18-06 course on Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm).
 - 🤔  I’m looking for a guide in DS/[kaggle](https://www.kaggle.com/lidiakrinova) world.
 - 💬  Ask me about :whale2:
-- 📫  reach me: lkrinova()student.42.us(dot)org
+- 📫  lkrinova()student.42.us(dot)org or [LinkedIn](https://www.linkedin.com/in/lidia-krinova-81397819b)
