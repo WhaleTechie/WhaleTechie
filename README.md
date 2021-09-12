@@ -4,8 +4,8 @@
 
 - 🔭  I’m a marine biologist, passionate about Humpback whales and their songs. [Researchgate profile](https://www.researchgate.net/profile/Lidia_Krinova)
 - :earth_americas: I speak English, French, German, Russian (a bit of Spanish and Japanese).
-- 🌱  I’m currently making a raycasting game in C (at school 42).
-- :sunglasses: I also study DataScience with [ML course](https://mlcourse.ai/) and I am reviewing Math basics with [MIT 18-06 course on Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm).
+- 🌱  I’m currently doing a Minishel group project in C (at school 42) - unix Terminal shell.
+- :sunglasses: I also study DataScience with [ML course](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/01-intro/README.md) .
 - 🤔  I’m looking for a guide in DS/[kaggle](https://www.kaggle.com/lidiakrinova) world.
-- 💬  Ask me about :whale2:
+- 💬  Ask me about humpback :whale2: and their songs
 - 📫  lkrinova()student.42.us(dot)org or [LinkedIn](https://www.linkedin.com/in/lidia-krinova-81397819b)
