@@ -8,4 +8,4 @@
 - :sunglasses: I also study DataScience with [ML course](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/01-intro/README.md) .
 - 🤔  I’m looking for a guide in DS/[kaggle](https://www.kaggle.com/lidiakrinova) world.
 - 💬  Ask me about humpback :whale2: and their songs
-- 📫  lkrinova()student.42.us(dot)org or [LinkedIn](https://www.linkedin.com/in/lidia-krinova-81397819b)
+- 📫  lkrinova()student.42(dot)fr or [LinkedIn](https://www.linkedin.com/in/lidia-krinova-81397819b)
